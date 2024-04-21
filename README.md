@@ -1,0 +1,1 @@
+User-friendly program that recommended top 3 electricity providers with the best rate based on a user’s inputted zip code, plan type, and estimated number of kilowatt hours used per month. Was created in Python that performed data scraping from Oncor and Power To Choose datasets.
